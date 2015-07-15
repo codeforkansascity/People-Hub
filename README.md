@@ -125,4 +125,4 @@ Points given for:
 * Event Organizer 
 * Core team member
 
-
+![team journey wireframe](https://cloud.githubusercontent.com/assets/10410203/8690057/2b1b5628-2a75-11e5-8d9b-e25d818caa67.png)
