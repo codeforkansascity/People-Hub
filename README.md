@@ -1,4 +1,5 @@
-Gamified app to acknowledge and to reward brigade member contributions. Encourage team collaboration. 
+Gamified app to acknowledge and to reward brigade member contributions, to encourage team collaboration. 
+It is possible to integrate this project with Projects Hub: https://github.com/codeforkansascity/Code-for-America-Projects-Hub
 
 ## Gamification Design Framework
 ### Brigade Objectives
