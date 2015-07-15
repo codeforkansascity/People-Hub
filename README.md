@@ -30,6 +30,8 @@ It is possible to integrate this project with Projects Hub: https://github.com/c
 
 Brigade members are both competitive (mostly coders) and cooperative (mostly noncoders). The nature of civic, community hacking encourages cooperation. Age ranges from 25 y.o. to 60 y.o. Most of the newcomers are not familiar with GitHub. Many have deep knowledge of specific area and would like to expand their skills in adjacent fields. The reasons why they participate range from doing good for community, to meeting driven people (finding a team), to personal growth (applying and expanding skillset), to founding a startup. 
 
+![team journey wireframe](https://cloud.githubusercontent.com/assets/10410203/8690057/2b1b5628-2a75-11e5-8d9b-e25d818caa67.png)
+
 ### Target Behaviors
 
 Emphasis on cooperation within team and competition between teams seems to be the most appropriate approach for People Hub gamification. 
