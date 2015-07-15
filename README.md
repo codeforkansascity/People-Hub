@@ -101,16 +101,16 @@ Progress timelines for project, team and player.
 ##### Points
 
 Points given for:
-* Code commit
-* Issue reported
-* Online comments
-* GitHub proficiency
-* New project idea 
-* Starting new projects
-* Meetup attendance 
-* Organizing event
-* New member referral
-* Mentorship
+* Code commit - 100
+* Issue reported - 50
+* Online comments - 10
+* GitHub proficiency - 100
+* New project idea - 100
+* Starting new projects - 100
+* Meetup attendance - 10
+* Organizing event - 100
+* New member referral - 20
+* Mentorship - 100
 
 ##### Rewards
 
@@ -128,4 +128,3 @@ Points given for:
 * Event Organizer 
 * Core team member
 
-![team journey wireframe](https://cloud.githubusercontent.com/assets/10410203/8690057/2b1b5628-2a75-11e5-8d9b-e25d818caa67.png)
