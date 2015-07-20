@@ -30,7 +30,14 @@ This will likely become a module in Projects Hub: https://github.com/codeforkans
 
 Brigade members are both competitive (mostly coders) and cooperative (mostly noncoders). The nature of civic, community hacking encourages cooperation. Age ranges from 25 y.o. to 60 y.o. Most of the newcomers are not familiar with GitHub. Many have deep knowledge of specific area and would like to expand their skills in adjacent fields. The reasons why they participate range from doing good for community, to meeting driven people (finding a team), to personal growth (applying and expanding skillset), to founding a startup. 
 
-![team journey wireframe](https://cloud.githubusercontent.com/assets/10410203/8690057/2b1b5628-2a75-11e5-8d9b-e25d818caa67.png)
+*Team profile wireframe*
+
+![team journey wireframe](https://cloud.githubusercontent.com/assets/10410203/8788562/e463f7cc-2f00-11e5-9e75-327ca5e0beda.png)
+
+*Brigade member profile*
+
+![player journey wireframe](https://cloud.githubusercontent.com/assets/10410203/8788565/e6db17a6-2f00-11e5-9e36-96e043d6ac70.png)
+
 
 ### Target Behaviors
 
